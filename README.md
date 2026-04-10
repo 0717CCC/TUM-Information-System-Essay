@@ -48,5 +48,4 @@ The purpose of this essay is to:
 - Reduced development cost through continuous feedback
 
 ### 4. Key Insight
-There is **no one-size-fits-all agile framework**.  
-This perspective highlights a key research gap: identifying which organizational structures best fit different large-scale contexts to enable more effective agile adoption.
+There is **no one-size-fits-all agile framework**. Thus, this perspective highlights a key research gap: identifying which organizational structures best fit different large-scale contexts to enable more effective agile adoption.
