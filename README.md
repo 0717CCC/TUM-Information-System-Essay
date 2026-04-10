@@ -26,7 +26,7 @@ The purpose of this essay is to:
 
 ## Key Topics Covered
 
-### 1. Background
+### 1. Introduction & Theoretical Background
 - Waterfall model limitations (rigidity, assumption of stable requirements)
 - Emergence of Agile (Agile Manifesto, 2001)
 - Popular frameworks:
@@ -36,20 +36,17 @@ The purpose of this essay is to:
 
 ### 2. Challenges of Scaling Agile
 - Cross-team coordination issues
-- Misalignment between agile and non-agile departments (e.g., marketing)
+  - Misalignment between agile and non-agile departments (e.g., marketing)
 - Organizational structure complexity
-- Cultural resistance to agile mindset
-- Real-world case: Nokia’s agile transformation challenges
+  - Holacracy structure ( High Flexibility v.s. Role Ambiguity )
+- Cultural resistance to the agile mindset
+  - Nokia’s agile transformation challenges
 
 ### 3. Opportunities
 - Improved transparency across teams and stakeholders
 - Better dependency management between teams
 - Reduced development cost through continuous feedback
-- Increased adaptability to changing customer needs
 
 ### 4. Key Insight
 There is **no one-size-fits-all agile framework**.  
-Successful large-scale agile adoption depends on:
-- Organizational context
-- Structure customization
-- Cultural alignment
+This perspective highlights a key research gap: identifying which organizational structures best fit different large-scale contexts to enable more effective agile adoption.
